@@ -1,60 +1,41 @@
-<!-- Profile Header with Typing Effect -->
-<h1 align="center">
-  Hi there 👋, I'm Kartik Gupta  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Engineer+%7C+Problem+Solver;Tech+Explorer;Lifelong+Learner" alt="Typing SVG" />
-</h1>
+<h1 align="left">Hey Geek👋  I hope you doing great.</h1>
 
-<!-- Social badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-Kartik%20Gupta-blue?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/yourhandle">
-    <img src="https://img.shields.io/badge/-@yourhandle-black?style=flat&logo=x&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
-  </a>
-</p>
+###
 
----
+<br clear="both">
 
-## 🚀 About Me  
-- 🎓 Passionate Engineer & Problem Solver  
-- 💻 Exploring **Machine Learning**, **OS**, and **Computer Networks**  
-- 📚 Always learning, always improving  
-- 💡 Believer in: *"Code it, break it, fix it, repeat"*  
+<h4 align="left">My name is Kartik Gupta and I'm a Tech Geek.</h4>
 
----
+###
 
-## 🛠 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,mysql,mongodb,git,github,vscode" />
-</p>
+<h2 align="left">Know about my world 🌎 --->>>>>>>></h2>
 
----
+###
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="150" />
-</p>
+<h4 align="left">I’m Kartik Gupta, a passionate engineer driven to solve real-world problems through creativity, logic, and constant growth.<br><br>I believe that after power, we are creators, thinkers, and solvers — each of us with the ability to make a meaningful impact. In a world of 8 billion, what sets us apart is not whether we fall, but how we rise.<br><br>My journey hasn’t been linear; I embrace a growth mindset much like a sigmoid function — slow, steady, but always moving forward. I don’t fear failure — every challenge I face makes my curve steeper and my vision sharper.<br><br>I’m committed to contributing 100% — not just to my work, but to the world. Let's build something meaningful together.</h4>
 
----
+###
 
-## 🌐 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="150" />
-</p>
+<h2 align="left">TECH STACK</h2>
 
----
+###
 
-## 📂 Featured Projects  
-- [🔗 **Project 1**](https://github.com/yourusername/project1) — Short description  
-- [🔗 **Project 2**](https://github.com/yourusername/project2) — Short description  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+###
