@@ -1,7 +1,5 @@
 <h1 align="left">Hey Geek👋  I hope you doing great.</h1>
 
-
-
 <br clear="both">
 
 <h4 align="left">My name is Kartik Gupta and I'm a Tech Geek.</h4>
