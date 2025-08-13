@@ -1,3 +1,6 @@
+![Animated Banner](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF5733&center=true&vCenter=true&lines=Hey!+I'm+Kartik;I+love+Coding;Welcome+to+my+Profile)
+
+
 # 💫 About Me:
 I’m Kartik Gupta, a passionate engineer driven to solve real-world problems through creativity, logic, and constant growth.<br><br>I believe that after power, we are creators, thinkers, and solvers — each of us with the ability to make a meaningful impact. In a world of 8 billion, what sets us apart is not whether we fall, but how we rise.<br><br>My journey hasn’t been linear; I embrace a growth mindset much like a sigmoid function — slow, steady, but always moving forward. I don’t fear failure — every challenge I face makes my curve steeper and my vision sharper.<br><br>I’m committed to contributing 100% — not just to my work, but to the world. Let's build something meaningful together.<br>
 
@@ -24,6 +27,5 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 ---
 [![](https://visitcount.itsvg.in/api?id=orignlkartik1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Animated Banner](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF5733&center=true&vCenter=true&lines=Hey!+I'm+Kartik;I+love+Coding;Welcome+to+my+Profile)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
