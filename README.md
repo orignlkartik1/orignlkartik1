@@ -24,4 +24,6 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 ---
 [![](https://visitcount.itsvg.in/api?id=orignlkartik1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Animated Banner](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF5733&center=true&vCenter=true&lines=Hey!+I'm+Kartik;I+love+Coding;Welcome+to+my+Profile)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
