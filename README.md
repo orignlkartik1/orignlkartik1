@@ -24,7 +24,8 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/snake.svg)
+
 
 
 ---
