@@ -27,7 +27,7 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 ---
 [![](https://visitcount.itsvg.in/api?id=orignlkartik1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400" alt="Coding Animation">
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
