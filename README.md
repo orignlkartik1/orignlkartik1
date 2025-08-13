@@ -18,16 +18,17 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=orignlkartik1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=orignlkartik1&limit=5&theme=dark&combine_all_yearly_contributions=true) 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=orignlkartik1&limit=5&theme=dark&combine_all_yearly_contributions=true) <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400" alt="Coding Animation">
 
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400" alt="Coding Animation">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=orignlkartik1&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
