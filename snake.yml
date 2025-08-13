@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: yourusername
+          github_user_name: orignlkartik1
           outputs: dist/snake.svg
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
