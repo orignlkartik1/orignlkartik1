@@ -15,13 +15,7 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 ![](https://nirzak-streak-stats.vercel.app/?user=orignlkartik1&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=orignlkartik1&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-<!-- activity graph heroku-app end -->
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=orignlkartik1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
