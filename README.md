@@ -34,6 +34,7 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
 </p>
+
 ---
 
 ### ✍️ Random Dev Quote
