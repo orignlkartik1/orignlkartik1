@@ -23,9 +23,6 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=orignlkartik1&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
@@ -35,6 +32,9 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
 </p>
 
