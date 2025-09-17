@@ -32,13 +32,12 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
+</p>
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
-</p>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=orignlkartik1&icon=0&color=0)](https://visitcount.itsvg.in)
 
