@@ -17,13 +17,12 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=orignlkartik1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=orignlkartik1&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
-
-<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 ---
 ### 🔥 Just Vibes...
