@@ -18,9 +18,8 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+I’m Kartik Gupta, a passionate engineer driven to solve real-world problems through creativity, logic, and constant growth. I believe that after a power, we are creators, thinkers, and solvers — each of us with the ability to make a meaningful impact. In a world of 8 billion, what sets us apart is not whether we fall, but how we rise. My journey hasn’t been linear; I embrace a growth mindset much like a sigmoid function — slow, steady, but always moving forward.
   
 
 <br/>  
