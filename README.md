@@ -35,18 +35,8 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=orignlkartik1&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
 
 ----
