@@ -31,6 +31,8 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 
 </td><td valign="top" width="50%">
 
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges) 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orignlkartik1&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
