@@ -22,7 +22,12 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 
 ---
 
+### Skills
+- **Languages:** Python, Java, C
+- **Database:** MySQL
+- **Tools:** Git, VS Code
 
+---
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
