@@ -2,18 +2,6 @@
 
 ---
 
-<a href="https://x.com/Orignlkartik1" target="_blank">
-<img src=https://img.shields.io/badge/X-black.svg?&style=for-the-badge&logo=X&logoColor=Black alt=X style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/orignlkartik1" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/orignlkartik1" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-
-
----
-
 
 ### Glad to see you here!  
 
@@ -40,11 +28,5 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orignlkartik1&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-
-![Profile views counter](https://komarev.com/ghpvc/?username=orignlkartik1&&style=flat-square) 
-[![Work For Humanity](https://img.shields.io/badge/Work%20For-Humaity-Green.svg)](https://github.com/chetanraj/awesome-github-badges) 
-[![Curious About Tech](https://img.shields.io/badge/Curious%20About-Tech-orange.svg)](https://github.com/chetanraj/awesome-github-badges) 
-[![Always-Learning](https://img.shields.io/badge/Always%20-Learning-red.svg)](https://github.com/chetanraj/awesome-github-badges) 
 
 ----
