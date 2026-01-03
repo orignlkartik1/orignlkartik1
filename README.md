@@ -17,5 +17,11 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 - **Tools:** Git, VS Code
 
 ---
-**[Checkout some repositoires](https://github.com/orignlkartik1?tab=repositories)**
+
+**[CheckOut Some Repositories]()**
+
+---
+![CheckOut-Repo](https://img.shields.io/badge/CheckOut-Repo-blue)
+![CheckOut-Repo](https://img.shields.io/badge/By-Passion-orange)
+![CheckOut-Repo](https://img.shields.io/badge/Late-Night-black)
 
