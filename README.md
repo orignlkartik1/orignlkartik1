@@ -18,7 +18,7 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 
 ---
 
-**[CheckOut Some Repositories]()**
+**[CheckOut Some Repositories](https://github.com/orignlkartik1?tab=repositories)**
 
 ---
 ![CheckOut-Repo](https://img.shields.io/badge/CheckOut-Repo-blue)
