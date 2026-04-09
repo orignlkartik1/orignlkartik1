@@ -20,7 +20,10 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 
 **[CheckOut Some Repositories](https://github.com/orignlkartik1?tab=repositories)**
 
+---
+
 **<<<--- You can contact me with given the Links here.**
+**Happy Coding !!! Buddy**
 
 ---
 ![CheckOut-Repo](https://img.shields.io/badge/Work_from_heart-red)
