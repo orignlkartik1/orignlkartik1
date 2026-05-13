@@ -26,7 +26,7 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 **Happy Coding !!! Buddy**
 
 ---
-![CheckOut-Repo](https://img.shields.io/badge/Work_from_heart-red)
+![CheckOut-Repo](https://img.shields.io/badge/By-heart-red)
 ![CheckOut-Repo](https://img.shields.io/badge/By-Passion-orange)
 ![CheckOut-Repo](https://img.shields.io/badge/Late-Night-black)
 
