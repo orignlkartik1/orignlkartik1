@@ -11,10 +11,10 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 ---
 
 ### Skills
-- **Languages:** Python, Java, C
+- **Languages:** Python, Java
 - **Database:** MySQL
-- **Backend:** Django Framework (Python)
-- **Tools:** Git, VS Code
+- **Backend:** Flask, REST API's
+- **Tools:** Git, Github, Postman, Google Colab
 
 ---
 
