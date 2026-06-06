@@ -34,17 +34,7 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 ---
 
 
-### 📈 Activity
-
-<div align="center">
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=orignlkartik1&theme=github-dark&area=true)
-
-</div>
-
----
-
-### 💡 Passion & Philosophy
+###  Passion & Philosophy
 
 ```
 📍 By Heart 💗
