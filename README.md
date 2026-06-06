@@ -34,7 +34,7 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 ---
 
 
-###  Passion & Philosophy
+### Passion & Philosophy
 
 ```
 📍 By Heart 💗
