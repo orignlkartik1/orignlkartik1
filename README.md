@@ -33,6 +33,17 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 
 ---
 
+
+### 📈 Activity
+
+<div align="center">
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=orignlkartik1&theme=github-dark&area=true)
+
+</div>
+
+---
+
 ### 💡 Passion & Philosophy
 
 ```
@@ -49,16 +60,6 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 ![Passion](https://img.shields.io/badge/Fueled_By-🔥%20Passion-orange?style=flat-square)
 ![Coffee](https://img.shields.io/badge/Powered_By-☕%20Coffee-brown?style=flat-square)
 ![Late Nights](https://img.shields.io/badge/Crafted_In-🌙%20Late%20Nights-black?style=flat-square)
-
-</div>
-
----
-
-### 📈 Activity
-
-<div align="center">
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=orignlkartik1&theme=github-dark&area=true)
 
 </div>
 
