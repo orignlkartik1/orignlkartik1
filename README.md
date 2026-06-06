@@ -1,12 +1,7 @@
 # Hey 👋, I'm Kartik Gupta!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm Kartik Gupta, a passionate full-stack engineer driven to solve real-world problems through **creativity**, **logic**, and **constant growth**. I believe that we are creators, thinkers, and solvers. I love building intelligent solutions with AI and modern web technologies.
 
