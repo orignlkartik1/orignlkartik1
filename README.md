@@ -21,6 +21,7 @@ I’m Kartik Gupta, a passionate engineer driven to solve real-world problems th
 
 **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
