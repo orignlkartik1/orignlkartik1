@@ -99,6 +99,7 @@ I strongly believe that growth is a continuous process. Every project, bug, fail
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00599C?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 ---
 
