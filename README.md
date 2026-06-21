@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:3b82f6&text=Kartik%20Gupta&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 <h1 align="center">
 </h1>
-<h3 align="center">🚀 AI/ML Engineer | Software Developer | Problem Solver</h3>
+<h3 align="center">AI/ML Engineer | Software Developer | AI/ML Researcher | Gen-AI Engineer  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=orignlkartik1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
