@@ -14,7 +14,7 @@
 
 ```yaml
 Engineer: Kartik Gupta
-Current Focus: Artificial Intelligence
+Current Focus: Artificial Intelligence and Automation
 Primary Language: Python
 Secondary Language: Java
 Current Objective: Build Production-Ready AI Systems
