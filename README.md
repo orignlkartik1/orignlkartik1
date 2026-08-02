@@ -35,25 +35,6 @@ Status:
   Building: Active 🛠️
   Giving Up: Never ⚡Here is the complete, raw markdown code for your GitHub `README.md`. You can copy everything inside the block below directly into your GitHub `README.md` file:
 
-```markdown
-<!-- Animated Header -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:1e1b4b,100:3b82f6&text=Kartik%20Gupta&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+Gen-AI+Developer;Building+Production-Ready+AI+Systems;LLMs%2C+RAG+%26+Agentic+AI+Explorer;Computer+Science+Engineering+Student" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=orignlkartik1&label=PROFILE+VIEWS&color=3b82f6&style=for-the-badge" alt="profile views" />
-    <img src="https://img.shields.io/github/followers/orignlkartik1?label=FOLLOWERS&style=for-the-badge&color=1e1b4b&logo=github" alt="github followers" />
-  </p>
-</div>
-
----
-
 ### 🧭 Mission Control & Overview
 
 <table width="100%">
