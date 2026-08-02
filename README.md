@@ -33,25 +33,6 @@ Long-Term Goal: World-Class AI Engineer
 Status:
   Learning: Active 🚀
   Building: Active 🛠️
-  Giving Up: Never ⚡Here is the complete, raw markdown code for your GitHub `README.md`. You can copy everything inside the block below directly into your GitHub `README.md` file:
-
-### 🧭 Mission Control & Overview
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-```yaml
-# 👨‍💻 Engineer Config
-Engineer: Kartik Gupta
-Current Focus: Artificial Intelligence & Automation
-Primary Tech: Python | Java | C++
-Current Goal: Build Production-Ready AI Systems
-Long-Term Goal: World-Class AI Engineer
-
-Status:
-  Learning: Active 🚀
-  Building: Active 🛠️
   Giving Up: Never ⚡
 ```
 
